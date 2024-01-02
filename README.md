@@ -1,8 +1,8 @@
-# # Fazendo o agrupamento dos filmes e programas da Netflix
+# # Fazendo o agrupamento dos programas da Netflix
 
 ## Visão Geral
 
-Neste projeto, vamos analisar os dados disponíveis, no conjunto de dados fos filmes e programas da Netflix que é o maior provedor de serviços de streaming online do mundo, com mais de 220 milhões de assinantes no segundo trimestre de 2022.
+Neste projeto, vamos analisar os dados disponíveis, no conjunto de dados dos programas da Netflix que é o maior provedor de serviços de streaming online do mundo, com mais de 220 milhões de assinantes no segundo trimestre de 2022.
 
 Você pode conferir o dataset e o projeto na íntegra clicando abaixo:
 
@@ -12,9 +12,9 @@ Link do código do projeto: https://github.com/gustavoptavares/cluster_netflix/b
 
 ## Problema e Solução
 
-Vamos analisar os dados o conjunto de dados de filmes e programas da Netflix. Com a análise, vamos entender, aspectos relacionados as características dos filmes e programas, como:
+Vamos analisar os dados o conjunto de dados dos programas da Netflix. Com a análise, vamos entender, aspectos relacionados as características dos programas, como:
 
-• Enteder o conjunto de dados relacionados as características dos filmes e programas.
+• Enteder o conjunto de dados relacionados as características dos programas.
 
 • Fazer o agrupamento dos filmes e programas da Netflix. 
 
@@ -45,8 +45,6 @@ Tipo: Principalmente filmes. Países mais representados: Japão, Canadá, Estado
 Cluster 4:
 
 Tipo: Principalmente filmes. Países mais representados: Canadá, Noruega. Ano de Lançamento Médio: 2015. Classificação: Geralmente TV-G. Duração: Média de 200 minutos, indicando uma tendência para filmes mais longos ou séries limitadas.
-
-WCSS: Aproximadamente 1277.93. Lembre-se de que queremos minimizar este valor. No contexto do método do cotovelo, observamos que aumentar o número de clusters além de 3 não resultava em uma grande diminuição do WCSS, então 3 foi uma boa escolha.
 
 ## Conclusão e Recomendações
 
